@@ -1,2 +1,4 @@
 # desafio10
- desafios ao do curso em video
+ Curso de HTML5 E CSS3 do CursoEmVideo
+
+Aprendendo a criar sites e gerenciar repositórios.
